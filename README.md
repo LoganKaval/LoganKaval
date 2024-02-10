@@ -1,4 +1,5 @@
  Hi, I’m Logan Kaval
+
  I’m interested in GNU/Linux and Bash
 
 <!---
