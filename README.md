@@ -1,5 +1,5 @@
--  Hi, I’m Logan Kaval
--  I’m interested in GNU/Linux and Bash
+ Hi, I’m Logan Kaval
+ I’m interested in GNU/Linux and Bash
 
 <!---
 LoganKaval/LoganKaval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
